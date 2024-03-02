@@ -1,6 +1,8 @@
 # PersonalCodeScanner
 
-Para la implementación del SDK en Android, se necesita solicitar una licencia de integración. Sin la licencia no será posible ejecutar el SDK. La licencia es puesta en el archivo Gradle del módulo **app** y se compilan junto con la aplicación.
+Éste es un ejemplo de implementación de nuestro SDK para escanear los códigos QR de nuestras credenciales (funciona solamente con los QRs de PersonalCode), obteniendo los QRs en una cadena para poderla enviar a nuestra api de validación online.
+
+Para la implementación del SDK en Android, se necesita solicitar una licencia de integración. Sin la licencia no será posible ejecutar el SDK. La licencia es puesta en el archivo Gradle del módulo **app** y se compila junto con la aplicación.
 
 ### Para que generemos la licencia necesitaremos que nos envíe una solicitud conteniendo el applicationId de la aplicación al siguiente contacto:
 Teléfono: + (52) 55 8596 5748 / 49
