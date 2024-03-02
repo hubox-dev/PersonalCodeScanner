@@ -12,6 +12,7 @@ Mail: info@hubox.com
 
 https://personalcode.com/
 
+
 ## Para la integración del SDK se necesitará lo siguiente:
 
 ### Carpeta android/app/libs
